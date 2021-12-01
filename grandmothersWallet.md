@@ -1,5 +1,5 @@
 
-My grandmother's wallet.
+**My grandmother's wallet.**
 
 When I was growing up in India as a little girl, I spent my summers at my grandparent's.  Our parents packed us off during summers to our grandparents' living in another city. That was our "summer camp" for my siblings and me. Reflecting on those days, they were terrific learning experiences. I am sure many of you have your own stories about **your summers at grandma's**. Here is one.
 
