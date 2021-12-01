@@ -7,4 +7,4 @@ My grandmother carried her daily spending money (rupees and paise) in a knot at 
 
 What are you waiting for? Get to learn crypto wallets and how to manage them. It is time to get on the #blockchain and #cryptocurrency train. Check out #BIA.
 
-(The picture depicts a recreated knot similar to one used by my grandmother: #blockchain #wallet in action. )
+(The picture depicts a recreated knot similar to one used by my grandmother: #wallet and #blockchain in action. )
