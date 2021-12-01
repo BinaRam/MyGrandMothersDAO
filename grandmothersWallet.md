@@ -6,4 +6,6 @@ When I was growing up in India as a little girl, I spent my summers at my grandp
 
 She carried her daily spending money (rupees and paises) in a knot at the corner piece of her dress, the #saree. See the picture. That was her #wallet, safe and secure, always with her. When she went to a market to buy produce, say for x = 75 paise, she unknotted her "wallet," gathered and took out coins totaling y, usually more (y > x) than the amount to be paid for the product, and let the vendor keep the change as the Tx tip. Hmm... it sounds like the #Bitcoin UTXO model! Even my grandmother knew the UTXO model and how to manage a wallet! 
 
-What are you waiting for? Get to learn crypto wallets and how to manage them.
+What are you waiting for? Get to learn crypto wallets and how to manage them. It is time to get on the #blockchain train. Check out #BIA.
+
+(The picture depicts a recreated knot similar to one used by my grandmother. Indeed #blockchain wallet in action )
